@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const PORT = 5000;
+const PORT = 5050;
 
 app.use(cors());
 
@@ -23,7 +23,9 @@ app.get('/sites', (req, res) => {
     name: site.name,
     location: site.location,
     lat: site.lat,
-    lng: site.lng
+    lng: site.lng,
+    category: site.category,
+    duration: site.duration
   }));
   res.json(summary);
 });

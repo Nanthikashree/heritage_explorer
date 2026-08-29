@@ -5,6 +5,9 @@
     "location": "Agra, Uttar Pradesh",
     "lat": 27.1751,
     "lng": 78.0421,
+    "category": "Monument",
+    "bestTime": "October to March",
+    "duration": "2-3 hours",
     "description": "An ivory-white marble mausoleum built by Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal, who died in 1631. Construction began around 1632 and took roughly 22 years and 20,000 workers to complete. A UNESCO World Heritage Site since 1983, it is considered the finest example of Mughal architecture, blending Persian, Islamic, and Indian styles.",
     "images": [
       "/images/taj-mahal/taj-mahal-1.jpg",
@@ -19,6 +22,9 @@
     "location": "Delhi",
     "lat": 28.6562,
     "lng": 77.241,
+    "category": "Fort",
+    "bestTime": "November to February",
+    "duration": "2 hours",
     "description": "A massive red sandstone fort built by Shah Jahan in 1638 as the residence of the Mughal emperors, when Delhi (Shahjahanabad) was the capital. It served as the main residence for nearly 200 years and is where India's Prime Minister hoists the national flag every Independence Day. Declared a UNESCO World Heritage Site in 2007.",
     "images": [
       "/images/red-fort/red-fort-1.jpg",
@@ -35,6 +41,9 @@
     "location": "Delhi",
     "lat": 28.5245,
     "lng": 77.1855,
+    "category": "Monument",
+    "bestTime": "October to March",
+    "duration": "1-2 hours",
     "description": "A 73-metre soaring tower of victory built starting around 1192 by Qutb-ud-din Aibak, founder of the Delhi Sultanate, and completed by his successors. Made of red sandstone and marble with intricately carved verses from the Quran, it is the tallest brick minaret in the world and a UNESCO World Heritage Site.",
     "images": [
       "/images/qutub-minar/qutub-minar-1.jpg",
@@ -48,6 +57,9 @@
     "location": "Karnataka",
     "lat": 15.335,
     "lng": 76.46,
+    "category": "Monument",
+    "bestTime": "October to February",
+    "duration": "Full day",
     "description": "The ruins of Vijayanagara, once the capital of the Vijayanagara Empire and one of the richest cities in the world in the 14th-16th centuries. Spread across a boulder-strewn landscape, it features hundreds of temples, royal complexes, and market streets, including the iconic Vittala Temple and its stone chariot. A UNESCO World Heritage Site.",
     "images": [
       "/images/hampi/hampi-1.jpg",
@@ -63,6 +75,9 @@
     "location": "Madhya Pradesh",
     "lat": 24.8318,
     "lng": 79.9199,
+    "category": "Temple",
+    "bestTime": "November to March",
+    "duration": "2-3 hours",
     "description": "A group of Hindu and Jain temples built between 950-1050 AD by the Chandela dynasty, famous for their intricate nagara-style architecture and elaborate sculptures, including sensuous and spiritual carvings. Of the original 85 temples, around 25 survive today, spread across western, eastern, and southern groups. A UNESCO World Heritage Site.",
     "images": [
       "/images/khajuraho/khajuraho-1.jpg",
@@ -80,6 +95,9 @@
     "location": "Odisha",
     "lat": 19.8876,
     "lng": 86.0945,
+    "category": "Temple",
+    "bestTime": "October to February",
+    "duration": "1-2 hours",
     "description": "A 13th-century temple built by King Narasimhadeva I in the shape of a colossal chariot dedicated to the Sun God Surya, complete with 24 ornately carved stone wheels and a team of seven horses. Located on the coast near Puri, it is renowned for its architectural grandeur and detailed stone carvings, and is a UNESCO World Heritage Site.",
     "images": [
       "/images/konark-sun-temple/konark-sun-temple-1.jpg",
@@ -96,6 +114,9 @@
     "location": "Maharashtra",
     "lat": 20.5519,
     "lng": 75.7033,
+    "category": "Cave",
+    "bestTime": "November to March",
+    "duration": "3-4 hours",
     "description": "A series of about 30 rock-cut Buddhist cave monuments dating from the 2nd century BCE to about 480 CE, carved into a horseshoe-shaped cliff. The caves contain some of the finest surviving examples of ancient Indian mural paintings and sculpture depicting the life of the Buddha and Jataka tales. A UNESCO World Heritage Site.",
     "images": [
       "/images/ajanta-caves/ajanta-caves-1.jpg",
@@ -111,6 +132,9 @@
     "location": "Maharashtra",
     "lat": 20.0258,
     "lng": 75.178,
+    "category": "Cave",
+    "bestTime": "November to March",
+    "duration": "3-4 hours",
     "description": "A complex of 34 rock-cut monasteries and temples representing Buddhist, Hindu, and Jain traditions, built between the 6th and 10th centuries. Its centerpiece, the Kailasa Temple, is the largest single monolithic rock excavation in the world, carved top-down from a single rock face. A UNESCO World Heritage Site.",
     "images": [
       "/images/ellora-caves/ellora-caves-1.jpg",
@@ -127,6 +151,9 @@
     "location": "Karnataka",
     "lat": 12.3052,
     "lng": 76.6552,
+    "category": "Palace",
+    "bestTime": "October (Dasara) or year-round evenings",
+    "duration": "1-2 hours",
     "description": "Also known as Amba Vilas Palace, this is the official residence of the Wadiyar dynasty and the seat of the former Kingdom of Mysore. The current structure was completed in 1912 in the Indo-Saracenic style, and is famous for being illuminated with nearly 100,000 lights during Mysuru Dasara and on weekends.",
     "images": [
       "/images/mysore-palace/mysore-palace-1.jpg",
@@ -141,6 +168,9 @@
     "location": "Madurai, Tamil Nadu",
     "lat": 9.9195,
     "lng": 78.1193,
+    "category": "Temple",
+    "bestTime": "October to March",
+    "duration": "2 hours",
     "description": "A historic Hindu temple dedicated to Goddess Meenakshi (a form of Parvati) and her consort Sundareswarar (Shiva), located on the banks of the Vaigai River. Famous for its towering, intricately sculpted gopurams (gateway towers) covered in thousands of colorful mythological figures, it is one of the most visited temples in India.",
     "images": [
       "/images/meenakshi-temple/meenakshi-temple-1.jpg",
@@ -156,6 +186,9 @@
     "location": "Uttar Pradesh",
     "lat": 27.094,
     "lng": 77.6613,
+    "category": "Fort",
+    "bestTime": "October to March",
+    "duration": "2-3 hours",
     "description": "A fortified ancient city built by Mughal emperor Akbar in the 1570s, briefly serving as the capital of the Mughal Empire before being abandoned due to water shortage. Its red sandstone buildings, including the Buland Darwaza and Jama Masjid, showcase a fusion of Hindu, Persian, and Islamic architectural styles. A UNESCO World Heritage Site.",
     "images": [
       "/images/fatehpur-sikri/fatehpur-sikri-1.jpg",
@@ -171,6 +204,9 @@
     "location": "Madhya Pradesh",
     "lat": 23.4795,
     "lng": 77.7398,
+    "category": "Stupa",
+    "bestTime": "November to February",
+    "duration": "1-2 hours",
     "description": "One of the oldest stone structures in India, the Great Stupa was originally commissioned by Emperor Ashoka in the 3rd century BCE to house relics of the Buddha. Renowned for its four intricately carved gateways (toranas) depicting scenes from the Buddha's life, it is a UNESCO World Heritage Site and major center of Buddhist heritage.",
     "images": [
       "/images/sanchi-stupa/sanchi-stupa-1.jpg",
@@ -186,6 +222,9 @@
     "location": "Jaipur, Rajasthan",
     "lat": 26.9239,
     "lng": 75.8267,
+    "category": "Palace",
+    "bestTime": "Early morning for best light",
+    "duration": "1 hour",
     "description": "The 'Palace of Winds', built in 1799 by Maharaja Sawai Pratap Singh from pink and red sandstone, forming part of the City Palace complex. Its distinctive five-story honeycomb facade has 953 small latticed windows (jharokhas) that were designed to let royal women observe street life while remaining unseen.",
     "images": [
       "/images/hawa-mahal/hawa-mahal-1.jpg",
@@ -201,6 +240,9 @@
     "location": "Patan, Gujarat",
     "lat": 23.8595,
     "lng": 72.1024,
+    "category": "Stepwell",
+    "bestTime": "November to February",
+    "duration": "1 hour",
     "description": "An elaborate stepwell built in the 11th century by Queen Udayamati in memory of her husband, King Bhimdev I of the Solanki dynasty. Constructed as an inverted temple, it descends seven levels and is adorned with over 500 sculptures depicting Hindu deities. A UNESCO World Heritage Site and featured on the Indian Rs. 100 note.",
     "images": [
       "/images/rani-ki-vav/rani-ki-vav-1.jpg",
@@ -216,6 +258,9 @@
     "location": "Hyderabad, Telangana",
     "lat": 17.3616,
     "lng": 78.4747,
+    "category": "Monument",
+    "bestTime": "Evening for the bazaar atmosphere",
+    "duration": "1 hour",
     "description": "A striking mosque and monument built in 1591 by Muhammad Quli Qutb Shah to commemorate the eradication of a plague and mark the founding of Hyderabad. Its name comes from its four grand arches and minarets ('char minar'), and it remains the iconic symbol of Hyderabad, surrounded by the bustling Laad Bazaar.",
     "images": [
       "/images/charminar/charminar-1.jpg",
